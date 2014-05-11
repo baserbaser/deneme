@@ -1,4 +1,4 @@
 <?php
 //dene
-echo 1+2;
+echo "sonu";
 ?>
